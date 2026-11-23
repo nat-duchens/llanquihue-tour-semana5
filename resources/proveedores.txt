@@ -1,0 +1,6 @@
+P001;Guías Austral;Guía Turístico;Av. Costanera 100;Llanquihue;Los Lagos
+P002;Transportes Llanquihue;Transporte;Calle Baquedano 45;Llanquihue;Los Lagos
+P003;Sabores Locales;Gastronomía;Av. Gramado 230;Puerto Varas;Los Lagos
+P004;Hostal Lago Azul;Alojamiento;Pasaje Los Coihues 18;Frutillar;Los Lagos
+P005;Cocina del Sur;Gastronomía;Calle del Lago 77;Puerto Varas;Los Lagos
+P006;Rutas Volcán;Guía Turístico;Av. Vicente Pérez Rosales 12;Ensenada;Los Lagos
